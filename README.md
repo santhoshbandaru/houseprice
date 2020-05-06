@@ -48,10 +48,8 @@ templates
 <h3> 4. Connect to github and select Your Repo.</h3>
 <img src='images/1.png'>
 
-> * Make Sure Port is set to 5000 or any valid port value.
-> * If you have Images in your html page , they should be in static folder.
 
-<p> Please Refer the Structure </p>
+<p> Please Refer the Following Structure </p>
 <img src='images/3.PNG'>
 
 <h3>4 . Click Deploy Branch </h3>
