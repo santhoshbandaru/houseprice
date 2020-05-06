@@ -26,7 +26,7 @@ Werkzeug==0.15.5
 >A Procfile is a list of process types in an app.
 
 ```
-web: gunicorn app:app
+web: gunicorn server:app
 ```
 >The first app represents the name of the python file that runs your application or the name of the module it is in. The second app represents your app name.
 
