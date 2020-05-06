@@ -1,5 +1,5 @@
 <h1> Deployment Of  Flask App on Heroku  
- <img src='Images/heroku.png' width=70 height=35></h1>
+ <img src='images/heroku.png' width=70 height=35></h1>
 
  >Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. It is generally considered to be easy-to-use. But it’s most beneficial to businesses in specific situations. Heroku has a free service model for small projects, but tiered service packages exist for cases where more complex business needs must be addressed.
 
@@ -46,16 +46,16 @@ templates
 <h3> 3. Open Heroku clock create new and select app</h3>
 <p> Give a name to your app and create</p>
 <h3> 4. Connect to github and select Your Repo.</h3>
-<img src='Images/1.png'>
+<img src='images/1.png'>
 
 > * Make Sure Port is set to 5000 or any valid port value.
 > * If you have Images in your html page , they should be in static folder.
 
 <p> Please Refer the Structure </p>
-<img src='Images/2.png'>
+<img src='images/2.png'>
 
 <h3>4 . Click Deploy Branch </h3>
-<img src='Images/3.png'>
+<img src='images/3.png'>
 
 <p> A Link Will be Generated after sucessful Deployment like this <a href= https://santhosh12.herokuapp.com/
  ' > https://santhosh12.herokuapp.com</a> </p>
