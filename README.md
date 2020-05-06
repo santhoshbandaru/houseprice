@@ -52,10 +52,10 @@ templates
 > * If you have Images in your html page , they should be in static folder.
 
 <p> Please Refer the Structure </p>
-<img src='images/2.png'>
+<img src='images/3.PNG'>
 
 <h3>4 . Click Deploy Branch </h3>
-<img src='images/3.png'>
+<img src='images/2.png'>
 
 <p> A Link Will be Generated after sucessful Deployment like this <a href= https://santhosh12.herokuapp.com/
  ' > https://santhosh12.herokuapp.com</a> </p>
