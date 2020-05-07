@@ -1,5 +1,5 @@
 <h1> Deployment Of  Flask App on Heroku  
- <a href="https://www.heroku.com/"><img src='images/heroku.png' width=70 height=35></a></h1>
+ <a href="https://www.heroku.com/" target="_blank"><img src='images/heroku.png' width=70 height=35></a></h1>
 
  >Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. It is generally considered to be easy-to-use. But it’s most beneficial to businesses in specific situations. Heroku has a free service model for small projects, but tiered service packages exist for cases where more complex business needs must be addressed.
 
