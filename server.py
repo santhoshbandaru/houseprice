@@ -37,12 +37,12 @@ def result():
         to_predict_list = list(map(int, to_predict_list))
         result = ValuePredictor(to_predict_list)
         result=round(result,2)
-        s='yes'
+        s='yes, value in lakhs INR:'
         if result<0:
-            result=-1
+            result=0
             s='not possible'
 
             
-        return render_template("index.html", result=s+' value in lakhs $ {}'.format(result))
+        return render_template("index.html", result=s+' {}'.format(result))
 if __name__=="__main__":
     app.run()
